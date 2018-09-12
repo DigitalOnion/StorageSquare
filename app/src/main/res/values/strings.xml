@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StorageSquare</string>
+
+    <string name="info">Practice app to open a freaking binary file and dump it.\n\nTake a picture with the camera and press "Open&#8230;" and then "Process&#8230;".\nFor this subject, Stackoverflow really missed it. The Android documentation was good though.</string>
+
+    <string name="btn_open_picture">Open a picture file</string>
+    <string name="btn_process_picture">Process the picture</string>
+    <string name="available_pictures">Available pictures</string>
+    <string name="please_select_file">Please, select a file.</string>
+    <string name="empty">nothing processed yet.</string>
+</resources>
